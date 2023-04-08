@@ -36,5 +36,4 @@ Section:NewToggle("super-human", "makes you go fast and jump high", function(sta
     end
 end)
 local Tab = Window:NewTab("credits")
-local Section = Tab:NewSection("credits to BaconBoy (owner me)
-more scripts coming soon")
+local Section = Tab:NewSection("credits to BaconBoy (owner me)")
